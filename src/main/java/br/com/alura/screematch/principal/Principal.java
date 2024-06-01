@@ -18,7 +18,7 @@ public class Principal {
     private ConverteDados conversor = new ConverteDados();
 
     private final String ENDERECO = "http://www.omdbapi.com/?t=";
-    private final String API_KEY = "&apikey=eee4172d";
+    private final String API_KEY = "MINHA_SENHA";
 
     public void exibeMenu(){
         System.out.println("Digite o nome da série para buscar");
